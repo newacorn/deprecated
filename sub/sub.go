@@ -1,6 +1,6 @@
 package sub
 
-import "github.com/gocolly/colly/v3"
+import "github.com/gocolly/colly/v2"
 
 func Info() {
 	println(11)
